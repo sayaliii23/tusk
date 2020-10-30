@@ -2,6 +2,7 @@ Welcome to tusk kitchen
 Kheer
 Pasta
 Chicken fry
+Rice
 Beans
 Thank you
 Done my changes
