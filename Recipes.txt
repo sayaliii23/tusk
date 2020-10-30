@@ -2,4 +2,6 @@ Welcome to tusk kitchen
 Kheer
 Pasta
 Chicken fry
+Beans
+Pizza
 Thank you
